@@ -32,7 +32,7 @@ public class Main {
                     fin = true;
                     break;
                 default:
-                    System.out.println("Ошибка ввода: операии "+operator+" не существует.");
+                    System.out.println("Ошибка ввода: операции "+operator+" не существует.");
             }
             System.out.println("Результат: " + res);
         }
